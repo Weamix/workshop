@@ -6,7 +6,7 @@
 - Node & [npx](https://www.npmjs.com/package/npx)
 
 ## 0. Demo workshop
-![algolia demo workshop](my-app/algolia-demo.png)
+![algolia demo workshop](./my-app/algolia-demo.png)
 
 ## 1. Create your first Algolia Index
 
