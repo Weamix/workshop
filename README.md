@@ -5,6 +5,9 @@
 - An Algolia account. If you don't have one already, [create an account for free](https://www.algolia.com/users/sign_up).
 - Node & [npx](https://www.npmjs.com/package/npx)
 
+## 0. Demo workshop
+![algolia demo workshop](my-app/algolia-demo.png)
+
 ## 1. Create your first Algolia Index
 
 Algolia will search through any set of data, as long as it’s structured. This is what we call an `index`.
